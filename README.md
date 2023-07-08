@@ -14,8 +14,8 @@ Due to the relational, and dependent nature of data in this project, I decided t
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/teyiadzufeh/noemdekassess.git`
-2. Navigate to the project directory: `cd noemdekassess`
+1. Clone the repository: `git clone https://github.com/teyiadzufeh/noemdek-task-a.git`
+2. Navigate to the project directory: `cd noemdek-task-a`
 3. Install the dependencies: `npm install`
 
 ## Usage
@@ -31,25 +31,7 @@ This will start the server on `http://localhost:3001`.
 ## Scripts
 
 - `npm run dev`: Starts the development server using `nodemon` for automatic restart on file changes.
-- `npm test`: Runs the test suite (no tests specified in this project).
-
-## Dependencies
-
-This project relies on the following dependencies:
-
-- bcrypt: ^5.1.0
-- compression: ^1.7.4
-- dotenv: ^16.3.1
-- express: ^4.18.2
-- joi: ^17.9.2
-- joi-password-complexity: ^5.1.0
-- jsonwebtoken: ^9.0.1
-- moment: ^2.29.4
-- morgan: ^1.10.0
-- nanoid: ^3.0.0
-- pg: ^8.11.1
-- uuid: ^9.0.0
-- winston: ^3.9.0
+- `npm start`: Starts the production server
 
 ## Author
 
