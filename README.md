@@ -4,7 +4,7 @@ This repository contains the code for Noemdek Assessment Task A, developed by Te
 
 ## Description
 
-The assessment task is designed to assess the skills and knowledge of the candidate in backend development. It includes building a RESTful API using Node.js and Express.js, with features such as user authentication, data validation, and database integration.
+It includes building a RESTful API using Node.js and Express.js, with features such as user authentication, data validation, and database integration.
 
 ## Database choice explanation
 
